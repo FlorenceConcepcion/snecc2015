@@ -1,0 +1,18 @@
+#Date: Mon Jul 27 14:31:49 2015
+#Phot_version: 1.35
+#Telescope: p48
+#Calibsource: sdss
+#ndaystomeasure: 10000
+#jddisc: 2456200.0
+#mjddisc: 56199.50
+#refdaysafterdisc: 10001
+#oneccd: 0
+#dosub: 1
+#fitrad: 4
+#Errors: formal statistical
+SN: PTF12ldy
+Filter: PTF48R
+Npoints: 2
+MJD counts dcounts zp nbad ccd iscoadd chi2 dzp magsys Nightdate PSFDIR Telescope Detector PhotSource Filename
+57186.4106       -30.9       61.7 27.000    0           06 0    0.340 None AB 2015-06-13 1 p48 CFH12k SullivanPipeline PTF_201506134106_i_p_scie_t095119_u024371490_f02_p003821_c06_diff.fits
+57186.4379        68.7       55.3 27.000    0           06 0    0.220 None AB 2015-06-13 1 p48 CFH12k SullivanPipeline PTF_201506134379_i_p_scie_t103031_u024371508_f02_p003821_c06_diff.fits

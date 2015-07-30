@@ -1,0 +1,68 @@
+#Date: Sat Jul 25 23:57:36 2015
+#Phot_version: 1.35
+#Telescope: p48
+#Calibsource: sdss
+#ndaystomeasure: 10000
+#jddisc: 2455390.0
+#mjddisc: 55389.50
+#refdaysafterdisc: 10001
+#oneccd: 0
+#dosub: 1
+#fitrad: 4
+#Errors: formal statistical
+SN: PTF10uhf
+Filter: PTF48R
+Npoints: 52
+MJD counts dcounts zp nbad ccd iscoadd chi2 dzp magsys Nightdate PSFDIR Telescope Detector PhotSource Filename
+55392.3050         6.9       51.0 27.000    0           07 0    0.240 None AB 2010-07-15 1 p48 CFH12k SullivanPipeline PTF_201007153050_i_p_scie_t071912_u011283298_f02_p004720_c07_diff.fits
+55392.3480        69.5       53.3 27.000    0           07 0    0.080 None AB 2010-07-15 1 p48 CFH12k SullivanPipeline PTF_201007153480_i_p_scie_t082103_u011283378_f02_p004720_c07_diff.fits
+55397.3029       -14.4       59.3 27.000    0           07 0    0.110 None AB 2010-07-20 1 p48 CFH12k SullivanPipeline PTF_201007203029_i_p_scie_t071610_u011288303_f02_p004720_c07_diff.fits
+55397.3460       -90.0       47.9 27.000    0           07 0    0.160 None AB 2010-07-20 1 p48 CFH12k SullivanPipeline PTF_201007203460_i_p_scie_t081817_u011288293_f02_p004720_c07_diff.fits
+55433.2485       291.2      106.7 27.000    0           07 0    0.230 None AB 2010-08-25 1 p48 CFH12k SullivanPipeline PTF_201008252485_i_p_scie_t055748_u011217624_f02_p004720_c07_diff.fits
+55433.2933       275.4      121.1 27.000    0           07 0    0.190 None AB 2010-08-25 1 p48 CFH12k SullivanPipeline PTF_201008252933_i_p_scie_t070218_u011217567_f02_p004720_c07_diff.fits
+55436.2751       371.6       80.7 27.000    0           07 0    0.350 None AB 2010-08-28 1 p48 CFH12k SullivanPipeline PTF_201008282751_i_p_scie_t063608_u011210290_f02_p004720_c07_diff.fits
+55436.3185       399.8       95.8 27.000    0           07 0    0.990 None AB 2010-08-28 2 p48 CFH12k SullivanPipeline PTF_201008283185_i_p_scie_t073835_u011210543_f02_p004720_c07_diff.fits
+55444.1485       467.1       50.1 27.000    0           07 0    0.140 None AB 2010-09-05 1 p48 CFH12k SullivanPipeline PTF_201009051486_i_p_scie_t033355_u010907386_f02_p004720_c07_diff.fits
+55444.1958       436.5       54.8 27.000    0           07 0    0.260 None AB 2010-09-05 1 p48 CFH12k SullivanPipeline PTF_201009051958_i_p_scie_t044159_u010907406_f02_p004720_c07_diff.fits
+55453.1491       487.9       55.5 27.000    0           07 0    0.130 None AB 2010-09-14 1 p48 CFH12k SullivanPipeline PTF_201009141491_i_p_scie_t033442_u012848485_f02_p004720_c07_diff.fits
+55453.1933       601.0       58.5 27.000    0           07 0    0.130 None AB 2010-09-14 1 p48 CFH12k SullivanPipeline PTF_201009141933_i_p_scie_t043822_u012848429_f02_p004720_c07_diff.fits
+55457.1358       567.0       66.1 27.000    0           07 0    0.180 None AB 2010-09-18 1 p48 CFH12k SullivanPipeline PTF_201009181358_i_p_scie_t031536_u010956863_f02_p004720_c07_diff.fits
+55457.1795       488.1       69.6 27.000    0           07 0    0.200 None AB 2010-09-18 1 p48 CFH12k SullivanPipeline PTF_201009181795_i_p_scie_t041826_u010956846_f02_p004720_c07_diff.fits
+55460.1379       475.5       76.6 27.000    0           07 0    0.110 None AB 2010-09-21 1 p48 CFH12k SullivanPipeline PTF_201009211379_i_p_scie_t031832_u012787382_f02_p004720_c07_diff.fits
+55460.1957       493.9       86.0 27.000    0           07 0    0.290 None AB 2010-09-21 1 p48 CFH12k SullivanPipeline PTF_201009211957_i_p_scie_t044146_u012787432_f02_p004720_c07_diff.fits
+55635.5086       -56.2       49.7 27.000    0           07 0    0.370 None AB 2011-03-15 1 p48 CFH12k SullivanPipeline PTF_201103155086_i_p_scie_t121220_u009961086_f02_p004720_c07_diff.fits
+55635.5106        33.3       48.9 27.000    0           07 0    0.280 None AB 2011-03-15 1 p48 CFH12k SullivanPipeline PTF_201103155106_i_p_scie_t121512_u009961021_f02_p004720_c07_diff.fits
+55638.5267      -148.9       85.5 27.000    0           07 0    1.040 None AB 2011-03-18 2 p48 CFH12k SullivanPipeline PTF_201103185267_i_p_scie_t123826_u009978030_f02_p004720_c07_diff.fits
+55638.5278       -38.3       80.3 27.000    0           07 0    0.850 None AB 2011-03-18 2 p48 CFH12k SullivanPipeline PTF_201103185278_i_p_scie_t124003_u009977814_f02_p004720_c07_diff.fits
+55722.2908       -26.8       58.3 27.000    0           07 0    0.120 None AB 2011-06-10 1 p48 CFH12k SullivanPipeline PTF_201106102908_i_p_scie_t065849_u009676193_f02_p004720_c07_diff.fits
+55722.3347       121.9       52.5 27.000    0           07 0    0.300 None AB 2011-06-10 1 p48 CFH12k SullivanPipeline PTF_201106103347_i_p_scie_t080157_u009676144_f02_p004720_c07_diff.fits
+55725.4809       101.9       85.1 27.000    0           07 0    0.200 None AB 2011-06-13 1 p48 CFH12k SullivanPipeline PTF_201106134809_i_p_scie_t113231_u009692219_f02_p004720_c07_diff.fits
+55732.3108       106.4       61.4 27.000    0           07 0    0.250 None AB 2011-06-20 1 p48 CFH12k SullivanPipeline PTF_201106203108_i_p_scie_t072730_u009698048_f02_p004720_c07_diff.fits
+55732.3570        31.2       62.5 27.000    0           07 0    0.220 None AB 2011-06-20 1 p48 CFH12k SullivanPipeline PTF_201106203570_i_p_scie_t083409_u009698052_f02_p004720_c07_diff.fits
+55735.2818       -27.2       44.4 27.000    0           07 0    0.160 None AB 2011-06-23 1 p48 CFH12k SullivanPipeline PTF_201106232818_i_p_scie_t064545_u009700190_f02_p004720_c07_diff.fits
+55735.3255        91.8       48.5 27.000    0           07 0    0.110 None AB 2011-06-23 1 p48 CFH12k SullivanPipeline PTF_201106233255_i_p_scie_t074842_u009700504_f02_p004720_c07_diff.fits
+55751.2813        -6.5       70.5 27.000    0           07 0    0.260 None AB 2011-07-09 1 p48 CFH12k SullivanPipeline PTF_201107092813_i_p_scie_t064502_u010174751_f02_p004720_c07_diff.fits
+55751.3250       -23.2       56.2 27.000    0           07 0    0.120 None AB 2011-07-09 1 p48 CFH12k SullivanPipeline PTF_201107093250_i_p_scie_t074801_u010174988_f02_p004720_c07_diff.fits
+55755.2240       -46.6       83.7 27.000    0           07 0    0.170 None AB 2011-07-13 1 p48 CFH12k SullivanPipeline PTF_201107132240_i_p_scie_t052232_u010215613_f02_p004720_c07_diff.fits
+55758.2084        26.1       84.3 27.000    0           07 0    0.220 None AB 2011-07-16 1 p48 CFH12k SullivanPipeline PTF_201107162084_i_p_scie_t050003_u010219632_f02_p004720_c07_diff.fits
+55758.2525      -106.6       86.7 27.000    0           07 0    0.120 None AB 2011-07-16 1 p48 CFH12k SullivanPipeline PTF_201107162525_i_p_scie_t060337_u010219863_f02_p004720_c07_diff.fits
+55761.2976         2.6       73.3 27.000    0           07 0    0.260 None AB 2011-07-19 1 p48 CFH12k SullivanPipeline PTF_201107192976_i_p_scie_t070834_u010289452_f02_p004720_c07_diff.fits
+55761.3412         5.2       82.8 27.000    0           07 0    0.060 None AB 2011-07-19 1 p48 CFH12k SullivanPipeline PTF_201107193412_i_p_scie_t081119_u010289442_f02_p004720_c07_diff.fits
+55769.1996       -24.6       47.1 27.000    0           07 0    0.200 None AB 2011-07-27 1 p48 CFH12k SullivanPipeline PTF_201107271996_i_p_scie_t044729_u010310462_f02_p004720_c07_diff.fits
+55779.2363        -5.3       54.8 27.000    0           07 0    0.190 None AB 2011-08-06 1 p48 CFH12k SullivanPipeline PTF_201108062363_i_p_scie_t054015_u010316748_f02_p004720_c07_diff.fits
+55779.2792        45.9       51.3 27.000    0           07 0    0.210 None AB 2011-08-06 1 p48 CFH12k SullivanPipeline PTF_201108062792_i_p_scie_t064203_u010316768_f02_p004720_c07_diff.fits
+55782.1970       -19.4       69.1 27.000    0           07 0    0.180 None AB 2011-08-09 1 p48 CFH12k SullivanPipeline PTF_201108091970_i_p_scie_t044338_u010354622_f02_p004720_c07_diff.fits
+55782.2401        76.2       69.7 27.000    0           07 0    0.180 None AB 2011-08-09 1 p48 CFH12k SullivanPipeline PTF_201108092401_i_p_scie_t054542_u010354807_f02_p004720_c07_diff.fits
+55790.1732        24.5       59.0 27.000    0           07 0    0.130 None AB 2011-08-17 1 p48 CFH12k SullivanPipeline PTF_201108171732_i_p_scie_t040928_u010362593_f02_p004720_c07_diff.fits
+55790.2170        -7.5       67.8 27.000    0           07 0    0.090 None AB 2011-08-17 1 p48 CFH12k SullivanPipeline PTF_201108172170_i_p_scie_t051232_u010362652_f02_p004720_c07_diff.fits
+55811.2292         7.3       88.9 27.000    0           07 0    0.150 None AB 2011-09-07 1 p48 CFH12k SullivanPipeline PTF_201109072292_i_p_scie_t053002_u010479059_f02_p004720_c07_diff.fits
+55811.2767        51.3      105.9 27.000    0           07 0    0.180 None AB 2011-09-07 1 p48 CFH12k SullivanPipeline PTF_201109072767_i_p_scie_t063823_u010478974_f02_p004720_c07_diff.fits
+55821.2101       -25.5       76.5 27.000    0           07 0    0.190 None AB 2011-09-17 1 p48 CFH12k SullivanPipeline PTF_201109172102_i_p_scie_t050237_u010511757_f02_p004720_c07_diff.fits
+55821.2539       -93.6       87.1 27.000    0           07 0    0.260 None AB 2011-09-17 1 p48 CFH12k SullivanPipeline PTF_201109172539_i_p_scie_t060539_u010511863_f02_p004720_c07_diff.fits
+55824.1557        10.1       59.9 27.000    0           07 0    0.380 None AB 2011-09-20 1 p48 CFH12k SullivanPipeline PTF_201109201557_i_p_scie_t034413_u010525155_f02_p004720_c07_diff.fits
+55824.2132         6.8       67.3 27.000    0           07 0    0.110 None AB 2011-09-20 1 p48 CFH12k SullivanPipeline PTF_201109202132_i_p_scie_t050701_u010525271_f02_p004720_c07_diff.fits
+55842.1379       117.6      103.5 27.000    0           07 0    0.230 None AB 2011-10-08 1 p48 CFH12k SullivanPipeline PTF_201110081379_i_p_scie_t031834_u010169827_f02_p004720_c07_diff.fits
+55842.2228       -97.5      158.3 27.000    0           07 0    1.130 None AB 2011-10-08 2 p48 CFH12k SullivanPipeline PTF_201110082228_i_p_scie_t052050_u010169947_f02_p004720_c07_diff.fits
+56906.2104       -66.1       96.4 27.000    0           07 0    0.140 None AB 2014-09-06 1 p48 CFH12k SullivanPipeline PTF_201409062104_i_p_scie_t050301_u021288937_f02_p004720_c07_diff.fits
+56906.2116        71.0       96.1 27.000    0           07 0    0.220 None AB 2014-09-06 1 p48 CFH12k SullivanPipeline PTF_201409062116_i_p_scie_t050440_u021288936_f02_p004720_c07_diff.fits
+56906.2522       -13.9      110.6 27.000    0           07 0    0.250 None AB 2014-09-06 1 p48 CFH12k SullivanPipeline PTF_201409062522_i_p_scie_t060309_u021288968_f02_p004720_c07_diff.fits
