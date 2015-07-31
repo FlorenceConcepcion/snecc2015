@@ -11,7 +11,7 @@ The first task consisted of learning about what supernovaa are, the different ty
 
 Next, the data from the ptf database were to be modelled using the built in models from sncosmo. This required regestering locally the ptf48R bandpass. ['Bandpass.py' in 'PTF48R filter' folder]. Using this filter, it could also be seen how the model spectra and light curve vary through this filter. 
 
-The some of the inital fits can be seen in the 10gtn folder. Note the reduced amount of data points used in the second fit, as well as the change in the model used. Note also the huge change in redshift from z = 0.045 to z = 0.1412. Also note these changes in the 10svt folder. It is these factors which are taken into account when fitting photometric data of an observed supernova to a built in model from sncosmo. This is first attempted in the CoreCollapseLC folder. 
+The data is fit to a model using *sncosmo.fit_lc()* funtion. Some of the inital fits can be seen in the 10gtn folder. Note the reduced amount of data points used in the second fit, as well as the change in the model used. Note also the huge change in redshift from z = 0.045 to z = 0.1412. Also note these changes in the 10svt folder. It is these factors which are taken into account when fitting photometric data of an observed supernova to a built in model from sncosmo. This is first attempted in the CoreCollapseLC folder. 
 
 Note: The code uses directory paths which are very specific and so to run these, the path used will have to be changed. 
 
