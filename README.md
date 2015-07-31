@@ -19,11 +19,19 @@ In order to work out exactly what sncosmo needed to to create a model, a very ba
 
 ###Absolute Magnitude Distributions
 
-The final and most interesting part of the project completed so far lies in the 'Ibcsn\_pftdataz\_c' folder. This began fitting type Ib and Ic supernovae to the Nugent Ib/c model ['nugent-sn1bc']. The first set of data colleceted was from the Nugent pipeline, which was then updated to the data from the Sullivan pipeline. Multiple Histograms were made, making final cuts of supernovae depending on their redshift and the redcuded chisquared (how well the model fit the data). Each histogram displays how many supernovae made the cut, out of a total 98, and their absolute magnitude distribution, as well as the best gaussian fit with a comparision to the gaussian fit taken from Li, W et. al. If a set of histograms does not have a model named, each dataset was fit to several models and the absolute magnitude from the best fitting model was used for the histogram. 
+The final and most interesting part of the project completed so far lies in the 'Ibcsn\_pftdataz\_c' folder. This began fitting type Ib and Ic supernovae to the Nugent Ib/c model ['nugent-sn1bc']. The first set of data colleceted was from the Nugent pipeline, which was then updated to the data from the Sullivan pipeline. Multiple Histograms were made, making final cuts of supernovae depending on their redshift and the redcuded chisquared (how well the model fit the data). Initial cuts rely on the data for a supernova having enough data points in the right date range (the year of explostion) and that there is at least one data point pre-prek and post-peak, ensuring the peak flux can be identified. 
 
-Histogram best representing the absolute magnitude calculated from the usable data I have:
+Each histogram within the 'To print' folder displays how many supernovae made the cut, out of a total 98, and their absolute magnitude distribution, as well as the best gaussian fit with a comparision to the gaussian fit taken from Li, W et. al. If a set of histograms does not have a model named, each dataset was fit to several models and the absolute magnitude from the best fitting model was used for the histogram. 
+
+Histogram best representing the absolute magnitude calculated from the usable photometic data:
 ![alt text](https://github.com/FlorenceConcepcion/snecc2015/blob/master/Ibcsn_pftdata_c/Sullivan_pipeline/Updated_dataset/To%20print/bestfit_eachsn004.png)
 
 
 Note: The absolute magnitude is not k-corrected and so the histograms with a cut of z = 0.04 are the best representation of the 'true' values.  
+
+The most up to date piece of code is named best\_model\_fit.py. It contains a list of all the type Ib and Ic supernovae recorded using ptf as well as a list of supernovae that there is useable photometric data for and if desired, the code prints out the names of the supernovae that made the cut. Ibc\_fit\_to\_date\_w\_redshift\_gaussian.py is similar but uses only the Nugent Ib/c model. 
+
+Histogram best representing the absolute magnitude calculated from the usable photometic data with Li, W et al data to compare:
+![alt text](https://github.com/FlorenceConcepcion/snecc2015/blob/master/Ibcsn_pftdata_c/Sullivan_pipeline/Updated_dataset/To%20print/Lietal.png)
+
 
