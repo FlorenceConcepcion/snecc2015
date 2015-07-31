@@ -1,7 +1,7 @@
 # snecc2015
 Work done over the summer of 2015. The project aimed to find a Core Collapse Rate.
 
-##What I did
+##What was done
 
 
 ###Initial tasks
