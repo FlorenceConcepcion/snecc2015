@@ -5,7 +5,7 @@ Work done over the summer of 2015. The project aimed to find a Core Collapse Rat
 
 
 ###Initial tasks
-The first task consisted of learning about what supernovaa are, the different types and their respective spectra and light curves. To get familiarised with snsosmo, the first graphs produced were the spectra and light curves of built in models of supernovae. The spectra varying with time can be found in the Spectra folder and the how the light curve changes with time can be found in the Websitelightcurves folder. 
+The first task consisted of learning about what supernovae are, the different types and their respective spectra and light curves. To get familiarised with snsosmo, the first graphs produced were the spectra and light curves of built in models of supernovae. The spectra varying with time can be found in the Spectra folder and the how the light curve changes with time can be found in the Websitelightcurves folder. 
 
 ###Fitting data to models in sncosmo
 
