@@ -1,6 +1,6 @@
 # snecc2015
 
-This is a display of the work done over the summer of 2015 at the Physics and Astronomy department at the University of Southampton. The project undertaken aimed to find a Rate of Core Collapse Supernovae. Some of this code has been uploaded with direct paths and may rely on individually downloaded python modules or for other code to be run before hand.
+This is a display of the work done over the summer of 2015 at the Physics and Astronomy department at the University of Southampton. The project undertaken aimed to find a Rate of Core Collapse Supernovae and the distribution of the absolute magnitude of Core Collapse Supernovae. Some of this code has been uploaded with direct paths and may rely on individually downloaded python modules or for other code to be run before hand.
 
 
 ##What was done
