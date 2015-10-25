@@ -6,7 +6,7 @@ from astropy.cosmology import FlatLambdaCDM
 from astropy.time import Time
 
 #creating list of available supernova data
-datadir = '/home/fcm1g13/Documents/Supernova/Ibcsn_pftdata_c/Sullivan_pipeline/data_files'
+datadir = '../data_files'
 
 cclist = []; snlist = []
 for i in os.walk(datadir):
