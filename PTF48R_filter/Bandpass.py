@@ -2,7 +2,7 @@ import sncosmo
 import numpy as np
 import matplotlib.pyplot as plt
 
-data=np.loadtxt('../PTF48R_filter/PTF48R.dat')
+data=np.loadtxt('PTF48R.dat')
 wavelength = np.array([row[0] for row in data])
 transmission = np.array([row[1] for row in data])
 '''
