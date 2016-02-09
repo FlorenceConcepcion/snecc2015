@@ -2,6 +2,7 @@ import astropy
 import matplotlib.pyplot as plt
 import numpy as np
 import sncosmo
+from PTF48R_filter import Bandpass
 
 '''
 This code fits a Type Ia supernova model(10hml) to a Type Ia sn data set (salt2).
@@ -12,7 +13,7 @@ data set (as this supernova, 10hml, was well documented).
 '''
 
 # Registering ptf48r filter
-execfile("../PTF48R_filter/Bandpass.py")
+#execfile("../PTF48R_filter/Bandpass.py")
 
 # Retrieving model from source, (requires internet access)
 source = sncosmo.get_source('salt2', version='2.4')  # model used is salt2
