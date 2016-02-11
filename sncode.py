@@ -107,25 +107,3 @@ def Gen_SN():
 
 Gen_SN()
 
-'''
-# Lists all supernova data sets available in CorecollapseLC/ccdata/
-cclist = []
-for i in os.walk('CorecollapseLC/ccdata/'):
-    for j in i:
-        for k in j:
-            if k[-4:] == '.npy':
-                cclist.append(k)
-print cclist
-'''
-cclist_retrieved = ['10glp_LC.npy', '10gtn_LC.npy', '10gvb_LC.npy', '10hcw_LC.npy', '10hdq_LC.npy', '10hfe_LC.npy',
-                    '10hgi_LC.npy', '10hie_LC.npy', '10hny_LC.npy', '10hpa_LC.npy', '10hyq_LC.npy', '10inj_LC.npy',
-                    '10iue_LC.npy', '10kui_LC.npy', '10lbo_LC.npy', '10myz_LC.npy', '10nbf_LC.npy', '10npd_LC.npy',
-                    '10ood_LC.npy', '10osn_LC.npy', '10osr_LC.npy', '10pbi_LC.npy', '10pjg_LC.npy', '10qif_LC.npy',
-                    '10qob_LC.npy', '10qqd_LC.npy', '10qts_LC.npy', '10qwz_LC.npy', '10rem_LC.npy', '10rin_LC.npy',
-                    '10rjs_LC.npy', '10rmn_LC.npy', '10svt_LC.npy', '10tff_LC.npy', '10tpa_LC.npy', '10tqi_LC.npy',
-                    '10tqv_LC.npy', '10ttd_LC.npy', '10uhf_LC.npy', '10uhn_LC.npy', '10uqn_LC.npy', '10vdl_LC.npy',
-                    '10vgv_LC.npy', '10vnv_LC.npy', '10vwg_LC.npy', '10wal_LC.npy', '10wmf_LC.npy', '10wve_LC.npy',
-                    '10xem_LC.npy', '10xfh_LC.npy', '10xik_LC.npy', '10xjr_LC.npy', '10xjv_LC.npy', '10yow_LC.npy',
-                    '10ysd_LC.npy']
-
-##But test the path out again
