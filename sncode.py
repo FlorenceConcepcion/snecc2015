@@ -5,11 +5,11 @@ import matplotlib.pyplot as plt
 from astropy.cosmology import FlatLambdaCDM
 
 '''
-Note, the following is a small sample of the available built in models in sncosmo:
-salt2  - TypeIa model
-s11-2005hm - TypeIb model
-snana-2004fe TypeIc model
-snana-2004hx - TypeIIP model
+Note, the following are a small sample of the available built in models in sncosmo:
+TypeIa model: source=sncosmo.get_source('hsiao',version='3.0')
+TypeIb model: sncosmo.get_source('snana-2007y',version='1.0')
+TypeIc model: sncosmo.get_source('snana-2004fe',version='1.0')
+TypeIIP model: sncosmo.get_source('snana-2004hx',version='1.0')
 '''
 
 def Gen_SN():
